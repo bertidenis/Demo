@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VatService/.vs/VatService/v17/TestStore/0
+/VatService/.vs/VatService/FileContentIndex
+/VatService/obj/Debug
+/VatService/.vs/VatService/v17
+/VatService/packages
